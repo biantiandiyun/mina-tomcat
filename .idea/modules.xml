@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mina-tomcat.iml" filepath="$PROJECT_DIR$/.idea/mina-tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testWeb.iml" filepath="$PROJECT_DIR$/.idea/modules/testWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testWeb_main.iml" filepath="$PROJECT_DIR$/.idea/modules/testWeb_main.iml" group="testWeb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testWeb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/testWeb_test.iml" group="testWeb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tomcat.iml" filepath="$PROJECT_DIR$/.idea/modules/tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tomcat_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tomcat_main.iml" group="tomcat" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tomcat_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tomcat_test.iml" group="tomcat" />
+    </modules>
+  </component>
+</project>
